@@ -73,6 +73,7 @@
     "morgan": "^1.8.1",
     "multer": "^1.3.0",
     "node-uuid": "~1.4.7",
+    "node-notifier": "8.0.0",
     "npm-run-all": "^4.0.2",
     "nunjucks": "^2.3.0",
     "on-build-webpack": "^0.1.0",
